@@ -37,7 +37,7 @@ p {
     margin:     0px 10px;
     color:      hsl(220, 15%, 55%);
 }
-h3 {
+h1 {
     color:      hsl(218, 44%, 22%);
     font-size:  1.2rem;
     margin:     10px 5px 10px 5px;
@@ -58,7 +58,7 @@ h3 {
       width:        93%;
       margin-top:   -1rem;
 	}
-	h3 {
+	h1 {
       font-size:    25px;
       margin:       15px 20px 15px 20px;
 	}
